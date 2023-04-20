@@ -8,8 +8,8 @@ sender = '=?US-ASCII?Q?Keith_Moore?= @stray0.day'
 receiver = 'dawid.sturgulewski@point72.com (=?iso-8859-8?b?7eXs+SDv4SDp7Oj08A==?=)'
 subject = 'Test email'
 message = 'This is a test spoof sent using Python'
-return_path = '=?US-ASCII?Q?WhataRascal?= thomas.cross@point72.com'
-cc = '(=?iso-8859-8?b?7eXs+SDv4SDp7Oj08A==?=) <thomas.cross@point72.com>'
+return_path = '=?US-ASCII?Q?WhataRascal?= dawid.sturgulewski@point72.com'
+cc = '(=?iso-8859-8?b?7eXs+SDv4SDp7Oj08A==?=) <dawid.sturgulewski@point72.com>'
 subject = "=?ISO-8859-1?Q?Olle_J=E4rnefors?="
 
 
